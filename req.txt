@@ -1,0 +1,9 @@
+
+### whisper
+pip install -U openai-whisper
+
+### ffmepg
+brew install ffmpeg
+
+### pytube moviepy
+pip install pytube moviepy
